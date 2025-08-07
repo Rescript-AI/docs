@@ -22,10 +22,9 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Bill Tracking",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "essentials/bill-tracking/concepts"
             ]
           },
           {
