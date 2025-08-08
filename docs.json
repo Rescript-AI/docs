@@ -24,7 +24,8 @@
           {
             "group": "Bill Tracking",
             "pages": [
-              "essentials/bill-tracking/concepts"
+              "essentials/bill-tracking/concepts",
+              "essentials/bill-tracking/review"
             ]
           },
           {
