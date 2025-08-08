@@ -20,14 +20,7 @@
           {
             "group": "Get Started",
             "pages": [
-              "index"
-            ]
-          },
-          {
-            "group": "Bill Tracking",
-            "pages": [
-              "essentials/bill-tracking/concepts",
-              "essentials/bill-tracking/review"
+              "quickstart"
             ]
           }
         ]
