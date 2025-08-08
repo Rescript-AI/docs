@@ -2,6 +2,10 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Rescript User Guide",
+  "appearance": {
+    "default": "light",
+    "strict": false
+  },
   "colors": {
     "primary": "#3A0078",
     "light": "#602ca4",
